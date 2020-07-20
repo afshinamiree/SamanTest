@@ -1,3 +1,5 @@
+Note for Question1.  
+
 the file exact_mean calculates the mean scores for two cases deterministically. However, it gets really tedious 
 to calculate the standard deviation and the conditional probability.
 to get the output of the calculation please change the cursor pointer ( in the command shell) to the CardGame folder 
@@ -30,3 +32,12 @@ the standard deviation:  3.002364235065426\
 the conditional probability:  0.453416149068323
 --------------------------------
 "
+Note for Question 2. 
+In order to run the code,change the cursor pointer ( in the command shell) to the TrafficStop folder 
+and then run the following command  
+python traffic_Stop_report.py   
+
+Note that in order to run the part to you need to put this two file inside the TrafficStop folder.  
+"VT_cleaned.csv"  
+"MT_cleaned.csv"  
+
