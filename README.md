@@ -16,17 +16,17 @@ the performance is pretty descent for input number less than 100K.
 the result will be like this:
 "
 
-please set an integer for number of sample in monte-carlo simulation.\n
-1000\n
+please set an integer for number of sample in monte-carlo simulation.\
+1000
 --------------------------------
 the stats for the case N=26 and M=2 are :\
 the mean score:  12.003\
 the standard deviation:  2.531993483403937\
-the conditional probability:  0.41446028513238287\
+the conditional probability:  0.41446028513238287
 --------------------------------
 the stats for the case N=52 and M = 4 are :\
 the mean score:  11.947\
 the standard deviation:  3.002364235065426\
-the conditional probability:  0.453416149068323\
+the conditional probability:  0.453416149068323
 --------------------------------
 "
